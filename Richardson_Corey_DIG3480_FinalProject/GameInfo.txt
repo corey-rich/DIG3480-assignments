@@ -1,0 +1,3 @@
+Controls: Left and Right aroows to move left and right
+Sorting Layers: CoRiPlayer, CoRiObjects, CoRiGround
+Title and Author: Fruit Frenzy by Corey Richardson
